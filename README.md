@@ -1,5 +1,5 @@
 <!-- Title / Heading -->
-<h1 align="center">Hi 👋, I'm Theankou-Coding</h1>
+<h1 align="center">Hi 👋, I'm SARAKROETTH </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Web+Developer;Passionate+Developer+from+Cambodia;Building+Amazing+Applications&font=Fira%20Code&center=true&width=450&height=50&duration=3000&pause=1000" alt="Typing SVG" />
 </h3>
@@ -28,12 +28,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on [Blizzer.tech](https://blizzer.tech/)
-- 👯 I'm looking to collaborate on [Menu Online](http://localhost:3000/)
-- 👨‍💻 All of my projects are available at [https://blizzer.tech/](https://blizzer.tech/)
-- 💬 Ask me about **HTML, CSS, JavaScript, Vue, Node, React, Next.js, TailwindCSS**
-- 📫 How to reach me: **theankoul182@gmail.com**
-- 📄 Know about my experiences: [https://blizzer.tech/](https://blizzer.tech/)
+- 🔭 I'm a student 
+- 👨‍💻 All of my projects are available at [https://github.com/HongXDD](https://github.com/HongXDD)
+- 💬 Ask me about **HTML, CSS, JavaScript, Vue, Node, React, TailwindCSS**
+- 📫 How to reach me: **sereysarakroetthbunroeun@gmail.com**
+- 📄 Know about my experiences: [https://github.com/HongXDD](https://github.com/HongXDD)
 - ⚡ Fun fact: **I Think I am funny**
 
 ---
@@ -43,31 +42,25 @@
 <table align="left">
   <tr>
     <td align="center" width="100">
-      <a href="https://twitter.com/thean kuor" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thean kuor" height="40" width="40" />
+      <a href="https://t.me/Roetthbun" target="_blank">
+        <img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="thean kuor" height="40" width="40" />
       </a>
-      <br><strong>Twitter</strong>
+      <br><strong>Telegram</strong>
     </td>
     <td align="center" width="100">
-      <a href="https://fb.com/thean kuor" target="_blank">
+      <a href="https://fb.com/Bunroeun Sereysarakroetth" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thean kuor" height="40" width="40" />
       </a>
       <br><strong>Facebook</strong>
     </td>
     <td align="center" width="100">
-      <a href="https://instagram.com/thean kuor" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thean kuor" height="40" width="40" />
-      </a>
-      <br><strong>Instagram</strong>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.youtube.com/c/theankou" target="_blank">
+      <a href="https://www.youtube.com/SarakroetthYT" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theankou" height="40" width="40" />
       </a>
       <br><strong>YouTube</strong>
     </td>
     <td align="center" width="100">
-      <a href="https://discord.gg/ogkou" target="_blank">
+      <a href="https://discord.gg/modingplayer" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ogkou" height="40" width="40" />
       </a>
       <br><strong>Discord</strong>
@@ -104,12 +97,6 @@
       <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65" />
-      </a>
-      <br><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="96">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="65" height="65" />
       </a>
@@ -133,12 +120,6 @@
       </a>
       <br><strong>Vue.js</strong>
     </td>
-    <td align="center" width="96">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="65" height="65" />
-      </a>
-      <br><strong>Next.js</strong>
-    </td>
   </tr>
 </table>
 
@@ -147,9 +128,9 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="65" height="65" />
+        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="nodejs" width="65" height="65" />
       </a>
-      <br><strong>PHP</strong>
+      <br><strong>Node.js</strong>
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -182,13 +163,13 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects Teamwork
 
 | Project Name  | Language    | Description                         | Stars |
 | ------------- | ----------- | ----------------------------------- | ----- |
-| [Blizzer](https://github.com/blizzertech/blizzer-revamp.git) | Nextjs & Tailwindcss | Blizzer.tech appcation and website | (https://blizzer.tech/) |
-| [Menu Online](https://github.com/blizzertech/e-menu.git)     |  Nextjs & Tailwindcss | Menu Online Application |(http://localhost:3000/) |
-| [Eventify](https://github.com/theankou-coding/eventify.git)  | React & Tailwindcss      | Eventify frontend              | (https://eventify-zeta-blue.vercel.app/) |
+| [FreeCourse](https://github.com/SARAKROETTH/PPTEAMZCODE) | vue.js & Tailwindcss & node.js mysql | Zcode.cam appcation and website | (http://localhost:3000/) |
+| [bloomEcommerce](https://github.com/HongXDD/P-WCT)     |  React.js & Tailwindcss & flask mysql | Menu Online Application |(http://localhost:3000/) |
+| [UniversityApp](https://github.com/SARAKROETTH/MAD_PROJECT_TEAM)  | Java( adroid )      | mobile app frontend              | http://localhost:3000/  |
 
 
 ---
@@ -196,11 +177,11 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theankou-coding&show_icons=true&theme=radical&count_private=true" alt="Total GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SARAKROETTH&show_icons=true&theme=radical&count_private=true" alt="Total GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theankou-coding&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAKROETTH&layout=compact&theme=radical" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theankou-coding&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARAKROETTH&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
